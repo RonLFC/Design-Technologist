@@ -1,7 +1,8 @@
-# Design-Technologist
-Building your career as a Design Technologist
+# Creative Generative AI
+Creative Generative Art using different AI Bots
 
-here i a list of some of the latest trends.  Source References are all listed and quoted at the bottom of this file:
+I will be documenting my journey experience towards discovering the different Generative Art Bots available out there.
 
-Source & References:
-https://github.com/M3-org/awesome-metaverse
+Starting with Midjourney
+
+and then following with Stability.ai
