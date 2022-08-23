@@ -6,3 +6,4 @@ I will be documenting my journey experience towards discovering the different Ge
 Starting with Midjourney
 
 and then following with Stability.ai
+123 testing
